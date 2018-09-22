@@ -1,0 +1,17 @@
+{
+  "name": "18.8-react-search_gif",
+  "version": "1.0.0",
+  "description": "App for searching gifs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "react",
+    "search",
+    "gif"
+  ],
+  "author": "JoWos",
+  "license": "ISC"
+}
