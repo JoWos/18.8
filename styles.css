@@ -1,0 +1,4 @@
+body {
+  background-color: #eae7e7;
+  background-image: repeating-linear-gradient(90deg, transparent, transparent 20px, #efecec 35px, #eae7e7 90px);
+}
